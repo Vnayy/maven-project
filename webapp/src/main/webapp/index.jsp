@@ -1,1 +1,1 @@
-@@@@@@@ welcome to DevOps Training. All the best@@@@@@
+Welcome. All the best to you 
